@@ -34,7 +34,7 @@
 
 
 
-<audio controls id="music" >
+<audio controls id="music"  autoplay >
 
   <source src="mimpi.mp3" type="audio/mpeg">
 </audio>
@@ -47,7 +47,7 @@ function PlayMusic() {
 }
 
 $(document).ready(function(){
-  setTimeout(PlayMusic);
+  setTimeout(PlayMusic, 3000);
 })
 
 </script>
