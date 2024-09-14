@@ -12,20 +12,20 @@ console.log(song_play)
 let songs_list = [
     {
         name : '♡',
-        Image : 'picture/santuy.jpg',
+        Image : 'santuy.jpg',
         Song : 'bisahara.mp3',
         Singer : 'bisahara.mp3'
 
     },
     {
         name : '♡',
-        Image : 'pictue/bgmusik.jpg',
+        Image : 'bgmusik.jpg',
         Song : 'YaLalali.mp3',
         Singer : 'YaLalali.mp3'
     },
     {
         name : '♡',
-        Image : 'picture/bgmusik.jpg',
+        Image : 'bgmusik.jpg',
         Song : 'albiyaalbi.mp3',
         Singer : 'albiyaalbi.mp3'
     }
